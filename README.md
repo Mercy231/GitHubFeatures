@@ -1,1 +1,1 @@
-Main v.1.2 (Changed in hotfix)
+Release v3.0
